@@ -1,11 +1,11 @@
 
 
-## Project setup
+## setup the Project
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reload for development
 ```
 npm run serve
 ```
